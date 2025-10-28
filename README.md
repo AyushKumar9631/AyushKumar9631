@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ayush Kumar</h1>
-<h3 align="center">🚀 B.Tech CSE | NIT Patna | Aspiring Full Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 B.Tech CSE | NIT Patna | Aspiring Full Stack Developer</h3>
 
 ---
 
@@ -41,7 +41,11 @@
 - 🔹 [**Data Structures and Algorithms in Java**](https://github.com/AyushKumar9631/Data-Structures-and-Algorithms-in-Java)  
   My complete DSA journey — implementations, notes, and problem-solving in Java.
 
-- 🔹 *(Add more projects as you build them!)*
+- 🔹 [**MNIST Handwritten Digit Classifier**](https://github.com/AyushKumar9631/handwritten-digit-recognition)  
+  A deep learning model built with CNNs to recognize handwritten digits from the MNIST dataset with high accuracy.
+
+- 🔹 [**Cats vs Dogs Image Classifier**](https://github.com/AyushKumar9631/cat-dog-image-recognition)  
+  A convolutional neural network trained to distinguish between cat and dog images using data augmentation and transfer learning.
 
 ---
 
