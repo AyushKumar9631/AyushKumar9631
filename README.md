@@ -1,15 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Ayush Kumar</h1>
-<h3 align="center">🚀 B.Tech CSE | NIT Patna | Aspiring Full Stack Developer</h3>
+<h3 align="center">B.Tech CSE | NIT Patna | Aspiring Full Stack Developer</h3>
 
 ---
 
 ### 🌟 About Me
 
-💡 Passionate about learning, building, and exploring new technologies.  
-💻 Currently focusing on **Data Structures & Algorithms** and **Web Development**.  
-📚 Completed **DSA in Java** from *Kunal Kushwaha’s* YouTube series.  
-🚀 My goal is to become a **full stack developer** and work on impactful projects.  
-🎯 Always learning something new every day!
+-> Passionate about learning, building, and exploring new technologies.  
+-> Currently focusing on **Data Structures & Algorithms** and **Web Development**.  
+-> Completed **DSA in Java** from *Kunal Kushwaha’s* YouTube series.  
+-> My goal is to become a **full stack developer** and work on impactful projects.  
+-> Always learning something new every day!
 
 ---
 
