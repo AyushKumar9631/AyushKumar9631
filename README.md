@@ -63,7 +63,7 @@
 ---
 
 ### ⚡ Fun Fact
-> “The best way to learn programming is to build, break, and rebuild.” 💡
+> “The first computer bug was an actual insect.” 💡
 
 ---
 
